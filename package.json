@@ -1,0 +1,10 @@
+{
+  "name": "yaml",
+  "description": "High performance YAML parser",
+  "tags": ["yaml", "parser"],
+  "version": "0.1.0",
+  
+  "repositories": [
+    { "type": "git", "url": "git://github.com/seedjs/js-yaml.git" }
+  ]
+}
